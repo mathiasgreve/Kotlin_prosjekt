@@ -19,7 +19,7 @@ Installasjonsguiden viser hvordan applikasjonen lastes ned og kjøres i Android 
 
 
 ```console
-$ git clone  https://github.uio.no/IN2000-V24/team-32.git
+$ git clone https://github.com/mathiasgreve/Kotlin_prosjekt
 ```
 
 <br>
